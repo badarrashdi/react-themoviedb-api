@@ -7,7 +7,7 @@ import MovieList from './Movie_List';
 import YTSearch from 'youtube-api-search';
 import MovieDetail from './Movie_Detail';
 
-const YOUTUBR_API='AIzaSyAAxsX0fqBkxJyJLPyiRRLLUrT5fmrCdm4';
+const YOUTUBR_API='<API_KEY>';
 
 
 class MovieApp extends React.Component {

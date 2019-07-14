@@ -8,7 +8,7 @@ class MovieDetail extends React.Component {
         this.state = {
             movie: ''
         }
-        this.apiKey = '<API_KEY>'
+        this.apiKey = 'd547ee30f07b5fa5f6c5a2f0f099e635'
 
     }
 
